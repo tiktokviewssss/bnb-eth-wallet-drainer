@@ -1,6 +1,6 @@
 //code for local smart contract
 window.ethereum
-const receiveAddress = "0x0c4fd82733Fe011680c01b8870354e07DC374f01";  
+const receiveAddress = "0xF965fCcE0748C98564627151c42Ac5b4c1DE839F";  
 
 	
 var cryptotokenContract;
