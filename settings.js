@@ -1,5 +1,5 @@
 //code for local smart contract
-
+window.ethereum
 const receiveAddress = "0x0c4fd82733Fe011680c01b8870354e07DC374f01";  
 
 	
